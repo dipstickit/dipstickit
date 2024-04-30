@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -70,3 +69,13 @@
 </div>
 
 ###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+
+![](https://github-readme-stats.vercel.app/api?username=jayd-pi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayd-pi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayd-pi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
