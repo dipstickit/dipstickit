@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material UI, Radix UI, Angular and React.js.<br>🚀 Backend: Experience with Express.js, Nest.js, MySQL, PostgreSQL, NoSQL (MongoDB), and TypeORM for building RESTful APIs.<br>🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>📱 UI/UX: Familiar with Figma and Adobe XD for design.<br>📝 Version Control: Git/GitHub proficiency.<br>🔍 Problem-solving: Strong debugging skills.<br>💬 Communication: Effective team collaboration.</p>
+<p align="left">🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material UI, Radix UI, shadcn UI, Angular and React.<br>🚀 Backend: Experience with Express.js, Nest.js, MySQL, PostgreSQL, NoSQL (MongoDB), and TypeORM for building RESTful APIs.<br>🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>📱 UI/UX: Familiar with Figma and Adobe XD for design.<br>📝 Version Control: Git/GitHub proficiency.<br>🔍 Problem-solving: Strong debugging skills.<br>💬 Communication: Effective team collaboration.</p>
 
 ###
 
