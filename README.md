@@ -68,17 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=dipstickit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dipstickit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipstickit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
