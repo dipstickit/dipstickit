@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material UI, Radix UI, shadcn UI, Angular, React, and React Native.<br>🚀 Backend: Experience with Express.js, Nest.js, MySQL, PostgreSQL, NoSQL (MongoDB), and TypeORM for building RESTful APIs.<br>🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>📱 UI/UX: Familiar with Figma and Adobe XD for design.<br>📝 Version Control: Git/GitHub proficiency.<br>🔍 Problem-solving: Strong debugging skills.<br>💬 Communication: Effective team collaboration.</p>
+<p align="left">🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material UI, Radix UI, shadcn UI, Angular, React, NextJS and React Native.<br>🚀 Backend: Experience with Express.js, Nest.js, MySQL, PostgreSQL, NoSQL (MongoDB), and TypeORM for building RESTful APIs.<br>🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>📱 UI/UX: Familiar with Figma and Adobe XD for design.<br>📝 Version Control: Git/GitHub proficiency.<br>🔍 Problem-solving: Strong debugging skills.<br>💬 Communication: Effective team collaboration.</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
